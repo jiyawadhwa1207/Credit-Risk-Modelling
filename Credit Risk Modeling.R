@@ -7,7 +7,7 @@ library(tidyr)
 library(purrr)  # for walk()
 
 # 1. Load and clean data --------------------------------------------------
-data <- read.csv("D:/BCA 2 SEM/R PROGRAMMING/Namrata  2401201049 R programming Project/loan_data_set.csv")
+data <- read.csv("D:/BCA 2 SEM/R PROGRAMMING/Jiya  2401201051 R programming Project/loan_data_set.csv")
 
 # Check column names
 names(data)
